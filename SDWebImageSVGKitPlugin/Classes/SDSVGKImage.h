@@ -5,8 +5,8 @@
 //  Created by DreamPiggy on 2018/10/10.
 //
 
-#import <SDWebImage/SDWebImage.h>
-#import <SVGKit/SVGKit.h>
+@import SDWebImage;
+@import SVGKit;
 
 NS_ASSUME_NONNULL_BEGIN
 
